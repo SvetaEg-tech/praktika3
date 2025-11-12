@@ -1,0 +1,44 @@
+.card {
+    border: 2px solid rgb(24, 16, 16);
+    border-radius: 30px;
+    width: 30%;
+}
+.title {
+    font-size: 20px;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    text-align: center;
+    color: #000;
+}
+button {
+    width: 200px;
+    height: 50px;
+    color: black;
+    background-color: yellow;
+    margin: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+img{
+   height: 200px;
+   width: 200px; 
+   border-radius: 10px;
+   margin: 40px;
+}
+div {
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 350px;
+    margin: 100px;
+}
+p {
+   font-size: 20px;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    text-align: center; 
+    color: red;
+}
